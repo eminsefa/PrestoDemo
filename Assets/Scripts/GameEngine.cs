@@ -26,10 +26,12 @@ public class GameEngine : MonoBehaviour
     }
     public void RestartButtonTapped()
     {
+        Time.timeScale = 1f;
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
     }
     public void MainMenuButtonTapped()
     {
+        Time.timeScale = 1f;
         pausePanel.SetActive(false);
         SceneManager.LoadScene(0);
     }
