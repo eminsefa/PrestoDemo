@@ -61,29 +61,29 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 11154}
+      Script: {instanceID: 11156}
     - Class: 114
-      Script: {instanceID: 11310}
+      Script: {instanceID: 11312}
     - Class: 114
-      Script: {instanceID: 11350}
-    - Class: 114
-      Script: {instanceID: 11558}
+      Script: {instanceID: 11352}
     - Class: 114
       Script: {instanceID: 11560}
     - Class: 114
-      Script: {instanceID: 11736}
+      Script: {instanceID: 11562}
     - Class: 114
-      Script: {instanceID: 12112}
+      Script: {instanceID: 11738}
     - Class: 114
-      Script: {instanceID: 12124}
+      Script: {instanceID: 12114}
     - Class: 114
-      Script: {instanceID: 12542}
+      Script: {instanceID: 12126}
     - Class: 114
-      Script: {instanceID: 12590}
+      Script: {instanceID: 12544}
     - Class: 114
-      Script: {instanceID: 12938}
+      Script: {instanceID: 12592}
     - Class: 114
-      Script: {instanceID: 12968}
+      Script: {instanceID: 12940}
+    - Class: 114
+      Script: {instanceID: 12970}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -128,21 +128,21 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 11154}
+      Script: {instanceID: 11156}
     - Class: 114
-      Script: {instanceID: 11310}
+      Script: {instanceID: 11312}
     - Class: 114
-      Script: {instanceID: 11350}
+      Script: {instanceID: 11352}
     - Class: 114
-      Script: {instanceID: 11736}
+      Script: {instanceID: 11738}
     - Class: 114
-      Script: {instanceID: 12112}
+      Script: {instanceID: 12114}
     - Class: 114
-      Script: {instanceID: 12124}
+      Script: {instanceID: 12126}
     - Class: 114
-      Script: {instanceID: 12590}
+      Script: {instanceID: 12592}
     - Class: 114
-      Script: {instanceID: 12938}
+      Script: {instanceID: 12940}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -610,4 +610,4 @@ ScriptsOnlyBuild:
   scenePathNames:
   - Assets/Scenes/Start Menu.unity
   - Assets/Scenes/Game.unity
-  playerPath: "D:/Yeni klas\xF6r/prestodemo.apk"
+  playerPath: D:/unity apk/prestodemo.apk
